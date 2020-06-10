@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flash-arbitrage-watcher/static/css/main.575b549f.chunk.css",
+    "main.js": "/flash-arbitrage-watcher/static/js/main.45fa83f1.chunk.js",
+    "main.js.map": "/flash-arbitrage-watcher/static/js/main.45fa83f1.chunk.js.map",
+    "runtime-main.js": "/flash-arbitrage-watcher/static/js/runtime-main.04536111.js",
+    "runtime-main.js.map": "/flash-arbitrage-watcher/static/js/runtime-main.04536111.js.map",
+    "static/js/2.7c21d972.chunk.js": "/flash-arbitrage-watcher/static/js/2.7c21d972.chunk.js",
+    "static/js/2.7c21d972.chunk.js.map": "/flash-arbitrage-watcher/static/js/2.7c21d972.chunk.js.map",
+    "index.html": "/flash-arbitrage-watcher/index.html",
+    "precache-manifest.5c227a077bc134078c2bcdd312da8f3c.js": "/flash-arbitrage-watcher/precache-manifest.5c227a077bc134078c2bcdd312da8f3c.js",
+    "service-worker.js": "/flash-arbitrage-watcher/service-worker.js",
+    "static/css/main.575b549f.chunk.css.map": "/flash-arbitrage-watcher/static/css/main.575b549f.chunk.css.map",
+    "static/js/2.7c21d972.chunk.js.LICENSE.txt": "/flash-arbitrage-watcher/static/js/2.7c21d972.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04536111.js",
+    "static/js/2.7c21d972.chunk.js",
+    "static/css/main.575b549f.chunk.css",
+    "static/js/main.45fa83f1.chunk.js"
+  ]
+}
